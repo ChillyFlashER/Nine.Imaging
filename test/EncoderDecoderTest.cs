@@ -10,6 +10,7 @@
         [Theory]
         [InlineData("TestImages/Car.bmp")]
         [InlineData("TestImages/Portrait.png")]
+        [InlineData("TestImages/Portrait-grayscale.png")]
         [InlineData("TestImages/Logo.png")]
         [InlineData("TestImages/Backdrop.jpg")]
         [InlineData("TestImages/Backdrop-grayscale.jpg")]
